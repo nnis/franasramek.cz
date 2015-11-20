@@ -1,0 +1,14 @@
+RewriteBase /
+RewriteEngine on
+RewriteRule	^zivotopis	zivotopis.php
+RewriteRule	^dilo	dilo.php
+RewriteRule	^exponaty	exponaty.php
+RewriteRule	^o-projektu o_projektu.php
+RewriteRule	^virtualni-prohlidka virtualni_prohlidka.php
+RewriteRule	^doprovodne-akce doprovodne_akce.php
+RewriteRule	^workshopy workshopy.php
+RewriteRule	^pro-media pro_media.php
+RewriteRule	^kontakt kontakt.php
+RewriteRule	^objednavky-pro-skoly kontakt.php
+RewriteRule	^oteviraci-doba kontakt.php
+RewriteRule	^vstupne kontakt.php

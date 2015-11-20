@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Pro média .:. Muzeum Fráni Šrámka</title>
+	<link rel="stylesheet" href="css/boilerplate_reset.css" />
+	<link rel="stylesheet" href="css/style.css" />
+	
+	<script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="js/jquery.accordion.source.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+	// <![CDATA[
+		
+	$(document).ready(function () {
+		$('ul.menu_accordion').accordion();
+	});
+			
+	// ]]>
+</script>
+
+<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-21176457-5']);
+	  _gaq.push(['_trackPageview']);
+	
+	
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+</script></head>
+<body>
+	<div class="wrapper">
+		
+		
+			<div id="menu">
+				<ul class="menu_accordion">
+					<li><a href="index.html">Úvod</a></li>
+					<li><a href="pro-media.html#">Fráňa Šrámek</a>
+						<ul>
+							<li><a href="zivotopis.html">Životopis</a></li>
+							<li><a href="http://franasramek.cz/dilo">Dílo</a></li>
+						</ul>
+					</li>
+					<li><a href="pro-media.html#">O výstavě</a>
+						<ul>
+							<li><a href="exponaty.html">Exponáty</a></li>
+							<li><a href="virtualni-prohlidka.html">Virtuální prohlídka</a></li>
+							<li><a href="o-projektu.html">O projektu</a></li>
+						</ul>
+					</li>
+					<li><a href="pro-media.html#">Soutěže</a>
+						<ul>
+							<li><a href="sbornik.php.html">Sborník</a></li>
+							<li><a href="vyherci.php.html">Výsledky soutěže</a></li>
+							<li><a href="doprovodne-akce.html">Soutěžní příspěvky</a></li>
+						</ul>
+					</li>
+					
+					<li><a href="workshopy.html">Workshopy</a></li>
+					<li><a href="pro-media.html">Pro média</a></li>
+					<li><a href="kontakt.html">Kontakt</a></li>
+				</ul>
+				
+				<div class="links">
+					<ul>
+						<li><a href="kontakt.html#objednavky-pro-skoly">Objednávky pro školy</a></li>
+						<li><a href="kontakt.html#oteviraci-doba">Otevírací doba muzea</a></li>
+						<li><a href="kontakt.html#vstupne">Vstupné</a></li>
+					</ul>
+				</div>
+				<div class="links">
+					<ul>
+						<li><a href="http://www.facebook.com/MuzeumFraniSramka" style="color:#6380bd; font-size: 13px"><img src="images/fb_ico.gif" style="margin:-6px 0 0 0">&nbsp;&nbsp;Facebook</a></li>
+						<li style="font-size:12px; color:#6380bd;">Staňte se fanouškem muzea </br>a buďte stále v obraze</li>
+					</ul>
+				</div>
+			</div>
+				
+		<div class="obsah">
+			<h1>Pro média</h1>
+			<p class="perex">V případě dotazů kontaktuje autorku výstavy a celého projektu Ninu Seyčkovou: <a href="mailto:nina.seyckova@gmail.com">nina.seyckova@gmail.com</a></p>
+
+<h2>Tisková zpráva o projektu</h2>
+<p>Máte-li zájem uveřejnit informace o projektu Revitalizace Muzea Fráni Šrámka v Sobotce, je vám k dispozici oficiální <a href="http://www.franasramek.cz/Tisk_zprava_sramek.docx">tisková zpráva ke stažení</a>. Rádi vám poskytneme další informace včetně fotografií z vernisáže, výstavy a workshopů, které se uskutečnily se žáky místní školy na půdě muzea a ZŠ Sobotka.</p>
+
+<h2>Napsali o nás</h2>
+<li><p>O literární soutěži Muzea Fráni Šrámka na webu Gymnázia Dr. Emila Holuba v Holicích, <br>25. července 2012: </br><a href="http://www.gyholi.cz/content/uspech-katky-beckove">Úspěch Katky Bečkové</a></p>
+
+<li><p>Rozhovor Deníku o Šrámkově Sobotce s vedoucím zdejšího městského kulturního střediska Jakubem Novosadem, 25. června 2012: </br><a href="http://www.denik.cz/ostatni_kultura/sobotka-sramkova-novosad-festivalove-dny-poji-tajemstvi-korespondence-20120624-1.html">Šéf Šrámkovy Sobotky: Festivalové dny pojí tajemství korespondence</a></p>
+
+<li><p>Avízo soutěže na webu Gymnázia Dr. Emila Holuba v Holicích, 24. května 2012: </br><a href="http://www.gyholi.cz/content/pozor-soutez">Pozor, soutěž!</a></p>
+
+<li><p>Článek v Jičínském deníku, 23. června 2012, str. 03: Festivalové dny pojí tajemství korespondence</p>
+
+<li><p>Článek na blogu literárního a kulturního časopisu H_aluze o soutěžích pořádaných Muzeem Fráni Šrámka: </br><a href="http://blog.h-aluze.cz/jste-tvurci-soutezte/">„Jste tvůrčí? Soutěžte!"</a></p>
+
+<li><p>Článek o nové výstavě a projektu v Muzeu Fráni Šrámka: </br><a href="http://www.infojet.cz/index.php/clanky/ruzne/1312-muzeum-frani-sramka-zhyn-otroku-zhyn-pse">„Zhyň, otroku, zhyň, pse!“</a></p>
+
+<li><p>Literární workshopy na Gymnáziu Dr. Emila Holuba v Holicích, 19. března 2012: </br><a href="http://www.gyholi.cz/content/literarni-workshop-1">Literární workshop 1</a></p>
+
+<li><p>Článek v Jičínském deníku, 24. února 2012, str. 08: Projekt ve Šrámkově muzeu<br>
+
+<li><p>Článek v Jičínském deníku, 24. února 2012, titulní strana: V muzeu můžete dokonce tvořit<br>
+      
+<li><p>Článek o vernisáži v Jičínském deníku, 21. prosince 2011: </br><a href="http://jicinsky.denik.cz/kultura_region/jcsobotka-sramkuvdum-expozicesramek20111220.html">Šrámkův dům představil novou expozici</a></p>
+
+<li><p>Rozhovor s autorkou projektu Ninou Seyčkovou v šestém čísle časopisu Splav! (2011): </br><a href="http://www.sramkovasobotka.cz/sramkuv-dum-stojici-spici/">Šrámkův dům stojící, spící</a></p>
+
+<p>Webové stránky Muzea Fráni Šrámka byly vybrány Národní knihovnou jako reprezentativní vzorek českého webu. Zařadili jsme se tak do projektu WebArchiv, který dlouhodobě uchovává webové stránky pro budoucí historické a výzkumné účely. Více informací o projektu po kliknutí na logo WebArchivu. <br><br>
+<a href="http://www.webarchiv.cz/files/vydavatele/certifikat.html" onclick="return !window.open(this, &#039;kod&#039;, &#039;toolbar=no, menubar=no, directories=no, resizable=yes, status=no, width=600, height=210, top=200, left=50&#039;)" ><img title="STRÁNKY ARCHIVOVÁNY NÁRODNÍ KNIHOVNOU ČR" style="border:none" oncontextmenu="return false" src="http://www.webarchiv.cz/images/webarchiv_certifikat_c.gif" /></a> 
+</p>		</div>
+	</div>
+</body>
+</html>

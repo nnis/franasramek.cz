@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama>
+<!-- Pano2VR 3.0 panorama configuration -->
+<view fovmode="0">
+<start pan="50.5" tilt="-3" fov="70"/>
+<min pan="-180" tilt="-48.4544" fov="5"/>
+<max pan="180" tilt="48.4544" fov="120"/>
+</view>
+<autorotate speed="0.100" delay="5.00" returntohorizon="0.000" startloaded="0" />
+<input tilesize="900" tilescale="1.01111" tile0url="virtualni_prohlidka/images/uvodni_expozice_o_0.jpg" tile1url="virtualni_prohlidka/images/uvodni_expozice_o_1.jpg" tile2url="virtualni_prohlidka/images/uvodni_expozice_o_2.jpg" tile3url="virtualni_prohlidka/images/uvodni_expozice_o_3.jpg" tile4url="virtualni_prohlidka/images/uvodni_expozice_o_4.jpg" tile5url="virtualni_prohlidka/images/uvodni_expozice_o_5.jpg" />
+<altinput screensize="500" tilesize="400" tilescale="1.01111" tile0url="virtualni_prohlidka/images/uvodni_expozice_o_400_0.jpg" tile1url="virtualni_prohlidka/images/uvodni_expozice_o_400_1.jpg" tile2url="virtualni_prohlidka/images/uvodni_expozice_o_400_2.jpg" tile3url="virtualni_prohlidka/images/uvodni_expozice_o_400_3.jpg" tile4url="virtualni_prohlidka/images/uvodni_expozice_o_400_4.jpg" tile5url="virtualni_prohlidka/images/uvodni_expozice_o_400_5.jpg" />
+<userdata title="" description="" author="" datetime="" copyright="" source="" info="" comment="" />
+<control sensitifity="8" simulatemass="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" />
+<hotspots width="180" height="20" wordwrap="1" >
+<hotspot id="2" skinid="right" pan="26.13" tilt="-2.0964" title="&#381;ivot b&#225;sn&#237;ka v komiksu" url="virtualni_prohlidka/2_mistnost.swf" target="" />
+</hotspots>
+<sounds>
+</sounds>
+</panorama>

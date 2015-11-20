@@ -1,0 +1,71 @@
+body {
+	color: #626262;
+	background: #f0f0f0;
+}
+
+.wrapper p {
+	margin-bottom: 13px;
+}
+
+.wrapper a {
+	color:#d82417;
+}
+
+.wrapper a:hover {
+	color:#d82417;
+}
+
+#menu li a {
+	color: #000;
+}
+
+#menu li a:hover {
+	color:#d82417;
+}
+
+#menu ul ul li {
+	list-style-image: url('../images/li2.gif');	
+}
+
+#menu ul ul li a {
+	color: #626262;
+}
+
+#menu ul ul li a:hover {
+	color: #f0f0f0;
+	background: #d82417;
+}
+
+.links li a {
+	color: #626262;
+}
+
+.links li a:hover {
+	color:#d82417;
+}
+
+h1 {
+	color: #000;
+}
+
+h2 {
+	color: #000;
+}
+
+h3 {
+	color: #000;
+}
+
+
+
+
+
+/* -------------- Patička -------------- */
+
+#footer { 
+	color:#888;
+}
+
+ul {
+	color: #626262;
+}
